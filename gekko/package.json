@@ -51,7 +51,7 @@
     "poloniex.js": "0.0.7",
     "promisify-node": "^0.4.0",
     "prompt-lite": "0.1.1",
-    "pushbullet": "1.4.3",
+    "pushbullet": "3.0.0",
     "quadrigacx": "0.0.7",
     "random-ext": "^2.6.1",
     "relieve": "^2.1.3",
